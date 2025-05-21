@@ -13,6 +13,7 @@ A spring Boot-Based Task Management System that auto- update Task Status using a
 
 ## How to Run 
 - Clone the Repo
+- https://github.com/umesh5282/Task-Management-with-Scheduler.git
    
 - Configure `application.properties` with your MySQL credentials.  application run on port 8083
 - Run the app:
