@@ -23,6 +23,7 @@ A spring Boot-Based Task Management System that auto- update Task Status using a
 - get  =  http://localhost:8083/tasks
 ------------------------------------------------------------------------------------------------
 ## Test api in postman or Swagger 
+ Swagger http://localhost:8083/swagger-ui/index.html#/
 - Method:Post
 - Url = http://localhost:8083/tasks
 - Body
